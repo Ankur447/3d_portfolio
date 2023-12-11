@@ -66,7 +66,7 @@ const Footer = () => {
             </div>
 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; Ankur Dev 2023 Inc. All rights reserved
+                &copy; Ankur Bahadure. All rights unreserved
             </div>
         </div>
     </div>
