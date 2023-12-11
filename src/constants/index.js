@@ -145,7 +145,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "No Testimonials unless you give (him) some real work... ",
+      "haha testimonials goes brrrrrrr...... ",
     name: "Jeff",
     designation: "Picture",
     company: "Jeff",
