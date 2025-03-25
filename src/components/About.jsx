@@ -47,10 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am an avid learner , who enjoys applying my knowledge towards solving real world problems while
-        working in groups and independently. During my studies, I built a web3 e-commerce Dapp as my final year project and a VR
-        Glove Controller as my side project which helped me develop and strengthen my technical skills. I am excited about the
-        opportunities to apply these skills to real-world projects and learn from experienced professionals in the field. Let's work together to bring your ideas to life!
+       I’m Ankur- coder by day, tinkerer by night, and a lifelong believer that tech should solve problems and spark joy. Whether I’m wiring up a Raspberry Pi or crafting AI tools, I love bridging the gap between software and hardware to create things that matter.
+
+At Ronin Labs, I combined my obsession with AI and IoT to build Sketchbot, turning doodles into precise SVG art, and IoT Cup, a quirky real-time chat system powered by a tiny Raspberry Pi. Freelancing let me geek out on rapid prototypes—like a Lightning Strike Counter built in a week (yes, thunderstorms fascinate me!). My projects, from the VR Glove Controller (with haptic feedback!) to DAMS, a doctor’s booking app, are all about making tech feel human.
+
+When I’m not coding, I’m probably dissecting new tools—like Stable Diffusion for AI art or Solana for blockchain—or contributing to open-source communities. I thrive on collaboration, curiosity, and coffee.
+
+Let’s chat about robots, React, or your next big idea!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
